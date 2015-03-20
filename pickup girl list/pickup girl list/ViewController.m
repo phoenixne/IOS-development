@@ -24,4 +24,15 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+//================   《 关闭键盘 》 代码   ========================
+
+- (BOOL)textFieldShouldReturn:(UITextField *)textField
+{
+    [textField resignFirstResponder];
+    return YES;
+}
+// ================   《 关闭键盘 》 代码   ========================
+
+    
 @end
