@@ -1,0 +1,22 @@
+//
+//  ViewController.h
+//  ME_WebViewSample
+//
+//  Created by phoenix on 3/22/15.
+//  Copyright (c) 2015 home. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+@property (weak, nonatomic) IBOutlet UIWebView *webView;
+
+- (IBAction)testLoadHTMLString:(id)sender;
+- (IBAction)testLoadData:(id)sender;
+- (IBAction)testLoadRequest:(id)sender;
+
+
+
+@end
+

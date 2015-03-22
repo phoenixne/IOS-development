@@ -14,6 +14,8 @@
 
 @implementation ViewController
 
+
+
 //使两个开关的值保持一致
 - (IBAction)switchValueChanged:(id)sender {
     
@@ -46,4 +48,6 @@
     // Dispose of any resources that can be recreated.
 }
 
+
 @end
+
