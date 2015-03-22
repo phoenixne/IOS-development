@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D02602631ABD06AB006FD71A"
+               BlueprintIdentifier = "D01ECF121ABE5B6A00C64317"
                BuildableName = "Me_Switch_slider_segmentedcontrolsample.app"
                BlueprintName = "Me_Switch_slider_segmentedcontrolsample"
                ReferencedContainer = "container:Me_Switch_slider_segmentedcontrolsample.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D026027C1ABD06AB006FD71A"
+               BlueprintIdentifier = "D01ECF2B1ABE5B6A00C64317"
                BuildableName = "Me_Switch_slider_segmentedcontrolsampleTests.xctest"
                BlueprintName = "Me_Switch_slider_segmentedcontrolsampleTests"
                ReferencedContainer = "container:Me_Switch_slider_segmentedcontrolsample.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D026027C1ABD06AB006FD71A"
+               BlueprintIdentifier = "D01ECF2B1ABE5B6A00C64317"
                BuildableName = "Me_Switch_slider_segmentedcontrolsampleTests.xctest"
                BlueprintName = "Me_Switch_slider_segmentedcontrolsampleTests"
                ReferencedContainer = "container:Me_Switch_slider_segmentedcontrolsample.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D02602631ABD06AB006FD71A"
+            BlueprintIdentifier = "D01ECF121ABE5B6A00C64317"
             BuildableName = "Me_Switch_slider_segmentedcontrolsample.app"
             BlueprintName = "Me_Switch_slider_segmentedcontrolsample"
             ReferencedContainer = "container:Me_Switch_slider_segmentedcontrolsample.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D02602631ABD06AB006FD71A"
+            BlueprintIdentifier = "D01ECF121ABE5B6A00C64317"
             BuildableName = "Me_Switch_slider_segmentedcontrolsample.app"
             BlueprintName = "Me_Switch_slider_segmentedcontrolsample"
             ReferencedContainer = "container:Me_Switch_slider_segmentedcontrolsample.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D02602631ABD06AB006FD71A"
+            BlueprintIdentifier = "D01ECF121ABE5B6A00C64317"
             BuildableName = "Me_Switch_slider_segmentedcontrolsample.app"
             BlueprintName = "Me_Switch_slider_segmentedcontrolsample"
             ReferencedContainer = "container:Me_Switch_slider_segmentedcontrolsample.xcodeproj">

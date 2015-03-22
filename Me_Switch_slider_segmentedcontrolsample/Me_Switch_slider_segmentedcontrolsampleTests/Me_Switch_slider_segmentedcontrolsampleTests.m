@@ -2,7 +2,7 @@
 //  Me_Switch_slider_segmentedcontrolsampleTests.m
 //  Me_Switch_slider_segmentedcontrolsampleTests
 //
-//  Created by phoenix on 3/21/15.
+//  Created by phoenix on 3/22/15.
 //  Copyright (c) 2015 home. All rights reserved.
 //
 
