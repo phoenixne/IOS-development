@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D09DA4971ABEED0C005BE37D"
-               BuildableName = "ME_WebViewSample.app"
-               BlueprintName = "ME_WebViewSample"
-               ReferencedContainer = "container:ME_WebViewSample.xcodeproj">
+               BlueprintIdentifier = "CA0AC554183CE41E005C1587"
+               BuildableName = "WebViewSample.app"
+               BlueprintName = "WebViewSample"
+               ReferencedContainer = "container:WebViewSample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D09DA4B01ABEED0C005BE37D"
-               BuildableName = "ME_WebViewSampleTests.xctest"
-               BlueprintName = "ME_WebViewSampleTests"
-               ReferencedContainer = "container:ME_WebViewSample.xcodeproj">
+               BlueprintIdentifier = "CA0AC575183CE41E005C1587"
+               BuildableName = "WebViewSampleTests.xctest"
+               BlueprintName = "WebViewSampleTests"
+               ReferencedContainer = "container:WebViewSample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D09DA4B01ABEED0C005BE37D"
-               BuildableName = "ME_WebViewSampleTests.xctest"
-               BlueprintName = "ME_WebViewSampleTests"
-               ReferencedContainer = "container:ME_WebViewSample.xcodeproj">
+               BlueprintIdentifier = "CA0AC575183CE41E005C1587"
+               BuildableName = "WebViewSampleTests.xctest"
+               BlueprintName = "WebViewSampleTests"
+               ReferencedContainer = "container:WebViewSample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D09DA4971ABEED0C005BE37D"
-            BuildableName = "ME_WebViewSample.app"
-            BlueprintName = "ME_WebViewSample"
-            ReferencedContainer = "container:ME_WebViewSample.xcodeproj">
+            BlueprintIdentifier = "CA0AC554183CE41E005C1587"
+            BuildableName = "WebViewSample.app"
+            BlueprintName = "WebViewSample"
+            ReferencedContainer = "container:WebViewSample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D09DA4971ABEED0C005BE37D"
-            BuildableName = "ME_WebViewSample.app"
-            BlueprintName = "ME_WebViewSample"
-            ReferencedContainer = "container:ME_WebViewSample.xcodeproj">
+            BlueprintIdentifier = "CA0AC554183CE41E005C1587"
+            BuildableName = "WebViewSample.app"
+            BlueprintName = "WebViewSample"
+            ReferencedContainer = "container:WebViewSample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D09DA4971ABEED0C005BE37D"
-            BuildableName = "ME_WebViewSample.app"
-            BlueprintName = "ME_WebViewSample"
-            ReferencedContainer = "container:ME_WebViewSample.xcodeproj">
+            BlueprintIdentifier = "CA0AC554183CE41E005C1587"
+            BuildableName = "WebViewSample.app"
+            BlueprintName = "WebViewSample"
+            ReferencedContainer = "container:WebViewSample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
