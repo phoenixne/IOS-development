@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D0A87D731ACFD775007C5915 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A87D721ACFD775007C5915 /* main.m */; };
-		D0A87D761ACFD775007C5915 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A87D751ACFD775007C5915 /* AppDelegate.m */; };
-		D0A87D791ACFD775007C5915 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A87D781ACFD775007C5915 /* ViewController.m */; };
-		D0A87D7C1ACFD775007C5915 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A87D7A1ACFD775007C5915 /* Main.storyboard */; };
-		D0A87D7E1ACFD775007C5915 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0A87D7D1ACFD775007C5915 /* Images.xcassets */; };
-		D0A87D811ACFD775007C5915 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0A87D7F1ACFD775007C5915 /* LaunchScreen.xib */; };
-		D0A87D8D1ACFD775007C5915 /* huodai_searchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A87D8C1ACFD775007C5915 /* huodai_searchTests.m */; };
+		D0DFD30C1ADBF1120082775E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0DFD30B1ADBF1120082775E /* main.m */; };
+		D0DFD30F1ADBF1120082775E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0DFD30E1ADBF1120082775E /* AppDelegate.m */; };
+		D0DFD3121ADBF1120082775E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0DFD3111ADBF1120082775E /* ViewController.m */; };
+		D0DFD3151ADBF1120082775E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0DFD3131ADBF1120082775E /* Main.storyboard */; };
+		D0DFD3171ADBF1120082775E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0DFD3161ADBF1120082775E /* Images.xcassets */; };
+		D0DFD31A1ADBF1120082775E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0DFD3181ADBF1120082775E /* LaunchScreen.xib */; };
+		D0DFD3261ADBF1120082775E /* huodai_searchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0DFD3251ADBF1120082775E /* huodai_searchTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D0A87D871ACFD775007C5915 /* PBXContainerItemProxy */ = {
+		D0DFD3201ADBF1120082775E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = D0A87D651ACFD774007C5915 /* Project object */;
+			containerPortal = D0DFD2FE1ADBF1120082775E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D0A87D6C1ACFD774007C5915;
+			remoteGlobalIDString = D0DFD3051ADBF1120082775E;
 			remoteInfo = "huodai search";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D0A87D6D1ACFD774007C5915 /* huodai search.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "huodai search.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0A87D711ACFD775007C5915 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0A87D721ACFD775007C5915 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D0A87D741ACFD775007C5915 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D0A87D751ACFD775007C5915 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D0A87D771ACFD775007C5915 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D0A87D781ACFD775007C5915 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		D0A87D7B1ACFD775007C5915 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D0A87D7D1ACFD775007C5915 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D0A87D801ACFD775007C5915 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		D0A87D861ACFD775007C5915 /* huodai searchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "huodai searchTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D0A87D8B1ACFD775007C5915 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0A87D8C1ACFD775007C5915 /* huodai_searchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = huodai_searchTests.m; sourceTree = "<group>"; };
+		D0DFD3061ADBF1120082775E /* huodai search.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "huodai search.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0DFD30A1ADBF1120082775E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0DFD30B1ADBF1120082775E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D0DFD30D1ADBF1120082775E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D0DFD30E1ADBF1120082775E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D0DFD3101ADBF1120082775E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D0DFD3111ADBF1120082775E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D0DFD3141ADBF1120082775E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D0DFD3161ADBF1120082775E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		D0DFD3191ADBF1120082775E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		D0DFD31F1ADBF1120082775E /* huodai searchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "huodai searchTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0DFD3241ADBF1120082775E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0DFD3251ADBF1120082775E /* huodai_searchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = huodai_searchTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D0A87D6A1ACFD774007C5915 /* Frameworks */ = {
+		D0DFD3031ADBF1120082775E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0A87D831ACFD775007C5915 /* Frameworks */ = {
+		D0DFD31C1ADBF1120082775E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,61 +60,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D0A87D641ACFD774007C5915 = {
+		D0DFD2FD1ADBF1120082775E = {
 			isa = PBXGroup;
 			children = (
-				D0A87D6F1ACFD774007C5915 /* huodai search */,
-				D0A87D891ACFD775007C5915 /* huodai searchTests */,
-				D0A87D6E1ACFD774007C5915 /* Products */,
+				D0DFD3081ADBF1120082775E /* huodai search */,
+				D0DFD3221ADBF1120082775E /* huodai searchTests */,
+				D0DFD3071ADBF1120082775E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D0A87D6E1ACFD774007C5915 /* Products */ = {
+		D0DFD3071ADBF1120082775E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D0A87D6D1ACFD774007C5915 /* huodai search.app */,
-				D0A87D861ACFD775007C5915 /* huodai searchTests.xctest */,
+				D0DFD3061ADBF1120082775E /* huodai search.app */,
+				D0DFD31F1ADBF1120082775E /* huodai searchTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D0A87D6F1ACFD774007C5915 /* huodai search */ = {
+		D0DFD3081ADBF1120082775E /* huodai search */ = {
 			isa = PBXGroup;
 			children = (
-				D0A87D741ACFD775007C5915 /* AppDelegate.h */,
-				D0A87D751ACFD775007C5915 /* AppDelegate.m */,
-				D0A87D771ACFD775007C5915 /* ViewController.h */,
-				D0A87D781ACFD775007C5915 /* ViewController.m */,
-				D0A87D7A1ACFD775007C5915 /* Main.storyboard */,
-				D0A87D7D1ACFD775007C5915 /* Images.xcassets */,
-				D0A87D7F1ACFD775007C5915 /* LaunchScreen.xib */,
-				D0A87D701ACFD775007C5915 /* Supporting Files */,
+				D0DFD30D1ADBF1120082775E /* AppDelegate.h */,
+				D0DFD30E1ADBF1120082775E /* AppDelegate.m */,
+				D0DFD3101ADBF1120082775E /* ViewController.h */,
+				D0DFD3111ADBF1120082775E /* ViewController.m */,
+				D0DFD3131ADBF1120082775E /* Main.storyboard */,
+				D0DFD3161ADBF1120082775E /* Images.xcassets */,
+				D0DFD3181ADBF1120082775E /* LaunchScreen.xib */,
+				D0DFD3091ADBF1120082775E /* Supporting Files */,
 			);
 			path = "huodai search";
 			sourceTree = "<group>";
 		};
-		D0A87D701ACFD775007C5915 /* Supporting Files */ = {
+		D0DFD3091ADBF1120082775E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D0A87D711ACFD775007C5915 /* Info.plist */,
-				D0A87D721ACFD775007C5915 /* main.m */,
+				D0DFD30A1ADBF1120082775E /* Info.plist */,
+				D0DFD30B1ADBF1120082775E /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		D0A87D891ACFD775007C5915 /* huodai searchTests */ = {
+		D0DFD3221ADBF1120082775E /* huodai searchTests */ = {
 			isa = PBXGroup;
 			children = (
-				D0A87D8C1ACFD775007C5915 /* huodai_searchTests.m */,
-				D0A87D8A1ACFD775007C5915 /* Supporting Files */,
+				D0DFD3251ADBF1120082775E /* huodai_searchTests.m */,
+				D0DFD3231ADBF1120082775E /* Supporting Files */,
 			);
 			path = "huodai searchTests";
 			sourceTree = "<group>";
 		};
-		D0A87D8A1ACFD775007C5915 /* Supporting Files */ = {
+		D0DFD3231ADBF1120082775E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D0A87D8B1ACFD775007C5915 /* Info.plist */,
+				D0DFD3241ADBF1120082775E /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -122,13 +122,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D0A87D6C1ACFD774007C5915 /* huodai search */ = {
+		D0DFD3051ADBF1120082775E /* huodai search */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0A87D901ACFD775007C5915 /* Build configuration list for PBXNativeTarget "huodai search" */;
+			buildConfigurationList = D0DFD3291ADBF1120082775E /* Build configuration list for PBXNativeTarget "huodai search" */;
 			buildPhases = (
-				D0A87D691ACFD774007C5915 /* Sources */,
-				D0A87D6A1ACFD774007C5915 /* Frameworks */,
-				D0A87D6B1ACFD774007C5915 /* Resources */,
+				D0DFD3021ADBF1120082775E /* Sources */,
+				D0DFD3031ADBF1120082775E /* Frameworks */,
+				D0DFD3041ADBF1120082775E /* Resources */,
 			);
 			buildRules = (
 			);
@@ -136,46 +136,46 @@
 			);
 			name = "huodai search";
 			productName = "huodai search";
-			productReference = D0A87D6D1ACFD774007C5915 /* huodai search.app */;
+			productReference = D0DFD3061ADBF1120082775E /* huodai search.app */;
 			productType = "com.apple.product-type.application";
 		};
-		D0A87D851ACFD775007C5915 /* huodai searchTests */ = {
+		D0DFD31E1ADBF1120082775E /* huodai searchTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0A87D931ACFD775007C5915 /* Build configuration list for PBXNativeTarget "huodai searchTests" */;
+			buildConfigurationList = D0DFD32C1ADBF1120082775E /* Build configuration list for PBXNativeTarget "huodai searchTests" */;
 			buildPhases = (
-				D0A87D821ACFD775007C5915 /* Sources */,
-				D0A87D831ACFD775007C5915 /* Frameworks */,
-				D0A87D841ACFD775007C5915 /* Resources */,
+				D0DFD31B1ADBF1120082775E /* Sources */,
+				D0DFD31C1ADBF1120082775E /* Frameworks */,
+				D0DFD31D1ADBF1120082775E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D0A87D881ACFD775007C5915 /* PBXTargetDependency */,
+				D0DFD3211ADBF1120082775E /* PBXTargetDependency */,
 			);
 			name = "huodai searchTests";
 			productName = "huodai searchTests";
-			productReference = D0A87D861ACFD775007C5915 /* huodai searchTests.xctest */;
+			productReference = D0DFD31F1ADBF1120082775E /* huodai searchTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D0A87D651ACFD774007C5915 /* Project object */ = {
+		D0DFD2FE1ADBF1120082775E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = home;
 				TargetAttributes = {
-					D0A87D6C1ACFD774007C5915 = {
+					D0DFD3051ADBF1120082775E = {
 						CreatedOnToolsVersion = 6.2;
 					};
-					D0A87D851ACFD775007C5915 = {
+					D0DFD31E1ADBF1120082775E = {
 						CreatedOnToolsVersion = 6.2;
-						TestTargetID = D0A87D6C1ACFD774007C5915;
+						TestTargetID = D0DFD3051ADBF1120082775E;
 					};
 				};
 			};
-			buildConfigurationList = D0A87D681ACFD774007C5915 /* Build configuration list for PBXProject "huodai search" */;
+			buildConfigurationList = D0DFD3011ADBF1120082775E /* Build configuration list for PBXProject "huodai search" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -183,29 +183,29 @@
 				en,
 				Base,
 			);
-			mainGroup = D0A87D641ACFD774007C5915;
-			productRefGroup = D0A87D6E1ACFD774007C5915 /* Products */;
+			mainGroup = D0DFD2FD1ADBF1120082775E;
+			productRefGroup = D0DFD3071ADBF1120082775E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D0A87D6C1ACFD774007C5915 /* huodai search */,
-				D0A87D851ACFD775007C5915 /* huodai searchTests */,
+				D0DFD3051ADBF1120082775E /* huodai search */,
+				D0DFD31E1ADBF1120082775E /* huodai searchTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D0A87D6B1ACFD774007C5915 /* Resources */ = {
+		D0DFD3041ADBF1120082775E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0A87D7C1ACFD775007C5915 /* Main.storyboard in Resources */,
-				D0A87D811ACFD775007C5915 /* LaunchScreen.xib in Resources */,
-				D0A87D7E1ACFD775007C5915 /* Images.xcassets in Resources */,
+				D0DFD3151ADBF1120082775E /* Main.storyboard in Resources */,
+				D0DFD31A1ADBF1120082775E /* LaunchScreen.xib in Resources */,
+				D0DFD3171ADBF1120082775E /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0A87D841ACFD775007C5915 /* Resources */ = {
+		D0DFD31D1ADBF1120082775E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -215,47 +215,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D0A87D691ACFD774007C5915 /* Sources */ = {
+		D0DFD3021ADBF1120082775E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0A87D791ACFD775007C5915 /* ViewController.m in Sources */,
-				D0A87D761ACFD775007C5915 /* AppDelegate.m in Sources */,
-				D0A87D731ACFD775007C5915 /* main.m in Sources */,
+				D0DFD3121ADBF1120082775E /* ViewController.m in Sources */,
+				D0DFD30F1ADBF1120082775E /* AppDelegate.m in Sources */,
+				D0DFD30C1ADBF1120082775E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D0A87D821ACFD775007C5915 /* Sources */ = {
+		D0DFD31B1ADBF1120082775E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0A87D8D1ACFD775007C5915 /* huodai_searchTests.m in Sources */,
+				D0DFD3261ADBF1120082775E /* huodai_searchTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D0A87D881ACFD775007C5915 /* PBXTargetDependency */ = {
+		D0DFD3211ADBF1120082775E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D0A87D6C1ACFD774007C5915 /* huodai search */;
-			targetProxy = D0A87D871ACFD775007C5915 /* PBXContainerItemProxy */;
+			target = D0DFD3051ADBF1120082775E /* huodai search */;
+			targetProxy = D0DFD3201ADBF1120082775E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		D0A87D7A1ACFD775007C5915 /* Main.storyboard */ = {
+		D0DFD3131ADBF1120082775E /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D0A87D7B1ACFD775007C5915 /* Base */,
+				D0DFD3141ADBF1120082775E /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D0A87D7F1ACFD775007C5915 /* LaunchScreen.xib */ = {
+		D0DFD3181ADBF1120082775E /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D0A87D801ACFD775007C5915 /* Base */,
+				D0DFD3191ADBF1120082775E /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -263,7 +263,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D0A87D8E1ACFD775007C5915 /* Debug */ = {
+		D0DFD3271ADBF1120082775E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,7 +304,7 @@
 			};
 			name = Debug;
 		};
-		D0A87D8F1ACFD775007C5915 /* Release */ = {
+		D0DFD3281ADBF1120082775E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -339,7 +339,7 @@
 			};
 			name = Release;
 		};
-		D0A87D911ACFD775007C5915 /* Debug */ = {
+		D0DFD32A1ADBF1120082775E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -349,7 +349,7 @@
 			};
 			name = Debug;
 		};
-		D0A87D921ACFD775007C5915 /* Release */ = {
+		D0DFD32B1ADBF1120082775E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -359,7 +359,7 @@
 			};
 			name = Release;
 		};
-		D0A87D941ACFD775007C5915 /* Debug */ = {
+		D0DFD32D1ADBF1120082775E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -378,7 +378,7 @@
 			};
 			name = Debug;
 		};
-		D0A87D951ACFD775007C5915 /* Release */ = {
+		D0DFD32E1ADBF1120082775E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -396,32 +396,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D0A87D681ACFD774007C5915 /* Build configuration list for PBXProject "huodai search" */ = {
+		D0DFD3011ADBF1120082775E /* Build configuration list for PBXProject "huodai search" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0A87D8E1ACFD775007C5915 /* Debug */,
-				D0A87D8F1ACFD775007C5915 /* Release */,
+				D0DFD3271ADBF1120082775E /* Debug */,
+				D0DFD3281ADBF1120082775E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0A87D901ACFD775007C5915 /* Build configuration list for PBXNativeTarget "huodai search" */ = {
+		D0DFD3291ADBF1120082775E /* Build configuration list for PBXNativeTarget "huodai search" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0A87D911ACFD775007C5915 /* Debug */,
-				D0A87D921ACFD775007C5915 /* Release */,
+				D0DFD32A1ADBF1120082775E /* Debug */,
+				D0DFD32B1ADBF1120082775E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		D0A87D931ACFD775007C5915 /* Build configuration list for PBXNativeTarget "huodai searchTests" */ = {
+		D0DFD32C1ADBF1120082775E /* Build configuration list for PBXNativeTarget "huodai searchTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D0A87D941ACFD775007C5915 /* Debug */,
-				D0A87D951ACFD775007C5915 /* Release */,
+				D0DFD32D1ADBF1120082775E /* Debug */,
+				D0DFD32E1ADBF1120082775E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D0A87D651ACFD774007C5915 /* Project object */;
+	rootObject = D0DFD2FE1ADBF1120082775E /* Project object */;
 }

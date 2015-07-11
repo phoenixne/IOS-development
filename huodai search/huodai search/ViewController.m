@@ -2,7 +2,7 @@
 //  ViewController.m
 //  huodai search
 //
-//  Created by phoenix on 4/4/15.
+//  Created by phoenix on 4/13/15.
 //  Copyright (c) 2015 home. All rights reserved.
 //
 
@@ -24,4 +24,13 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)load:(id)sender {
+    
+    NSURL * url = [NSURL URLWithString:@"http://www.baidu.com"];
+    NSURLRequest * request = [NSURLRequest requestWithURL:url];
+    [self.webView loadRequest:request];
+    self.webView.delegate = self;
+   
+}
+    
 @end

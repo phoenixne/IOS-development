@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0A87D6C1ACFD774007C5915"
+               BlueprintIdentifier = "D0DFD3051ADBF1120082775E"
                BuildableName = "huodai search.app"
                BlueprintName = "huodai search"
                ReferencedContainer = "container:huodai search.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0A87D851ACFD775007C5915"
+               BlueprintIdentifier = "D0DFD31E1ADBF1120082775E"
                BuildableName = "huodai searchTests.xctest"
                BlueprintName = "huodai searchTests"
                ReferencedContainer = "container:huodai search.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0A87D851ACFD775007C5915"
+               BlueprintIdentifier = "D0DFD31E1ADBF1120082775E"
                BuildableName = "huodai searchTests.xctest"
                BlueprintName = "huodai searchTests"
                ReferencedContainer = "container:huodai search.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0A87D6C1ACFD774007C5915"
+            BlueprintIdentifier = "D0DFD3051ADBF1120082775E"
             BuildableName = "huodai search.app"
             BlueprintName = "huodai search"
             ReferencedContainer = "container:huodai search.xcodeproj">
@@ -76,7 +76,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0A87D6C1ACFD774007C5915"
+            BlueprintIdentifier = "D0DFD3051ADBF1120082775E"
             BuildableName = "huodai search.app"
             BlueprintName = "huodai search"
             ReferencedContainer = "container:huodai search.xcodeproj">
@@ -95,7 +95,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0A87D6C1ACFD774007C5915"
+            BlueprintIdentifier = "D0DFD3051ADBF1120082775E"
             BuildableName = "huodai search.app"
             BlueprintName = "huodai search"
             ReferencedContainer = "container:huodai search.xcodeproj">
