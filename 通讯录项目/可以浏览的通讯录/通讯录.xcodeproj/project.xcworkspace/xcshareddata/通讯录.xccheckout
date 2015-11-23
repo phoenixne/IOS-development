@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C918140F-8699-434A-9FAB-78FBB54E05A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>通讯录</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C226CDB104B72FE631BBC8F83366CE8DC5A54C25</key>
+		<string>https://github.com/broccolii/Broccoli-addressBook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>通讯录.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C226CDB104B72FE631BBC8F83366CE8DC5A54C25</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/broccolii/Broccoli-addressBook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C226CDB104B72FE631BBC8F83366CE8DC5A54C25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C226CDB104B72FE631BBC8F83366CE8DC5A54C25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Broccoli-addressBook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
