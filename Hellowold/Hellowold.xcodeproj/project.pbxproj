@@ -15,6 +15,7 @@
 		D0D332381AB5257800E280A8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0D332361AB5257800E280A8 /* LaunchScreen.xib */; };
 		D0D332441AB5257800E280A8 /* HellowoldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D332431AB5257800E280A8 /* HellowoldTests.m */; };
 		D0D332501AB527D700E280A8 /* icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = D0D3324F1AB527D700E280A8 /* icon-152.png */; };
+		D0FC65871B9503530032D2F8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0FC65861B9503530032D2F8 /* CoreGraphics.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		D0D332421AB5257800E280A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0D332431AB5257800E280A8 /* HellowoldTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HellowoldTests.m; sourceTree = "<group>"; };
 		D0D3324F1AB527D700E280A8 /* icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-152.png"; sourceTree = "<group>"; };
+		D0FC65861B9503530032D2F8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0FC65871B9503530032D2F8 /* CoreGraphics.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +68,7 @@
 		D0D3321B1AB5257700E280A8 = {
 			isa = PBXGroup;
 			children = (
+				D0FC65861B9503530032D2F8 /* CoreGraphics.framework */,
 				D0D332261AB5257700E280A8 /* Hellowold */,
 				D0D332401AB5257800E280A8 /* HellowoldTests */,
 				D0D332251AB5257700E280A8 /* Products */,
@@ -88,8 +92,6 @@
 				D0D3322E1AB5257800E280A8 /* ViewController.h */,
 				D0D3322F1AB5257800E280A8 /* ViewController.m */,
 				D0D332311AB5257800E280A8 /* Main.storyboard */,
-				D0D332341AB5257800E280A8 /* Images.xcassets */,
-				D0D332361AB5257800E280A8 /* LaunchScreen.xib */,
 				D0D332271AB5257700E280A8 /* Supporting Files */,
 			);
 			path = Hellowold;
@@ -98,6 +100,8 @@
 		D0D332271AB5257700E280A8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D0D332361AB5257800E280A8 /* LaunchScreen.xib */,
+				D0D332341AB5257800E280A8 /* Images.xcassets */,
 				D0D3324F1AB527D700E280A8 /* icon-152.png */,
 				D0D332281AB5257700E280A8 /* Info.plist */,
 				D0D332291AB5257700E280A8 /* main.m */,
@@ -416,6 +420,7 @@
 				D0D332491AB5257800E280A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0D3324A1AB5257800E280A8 /* Build configuration list for PBXNativeTarget "HellowoldTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +429,7 @@
 				D0D3324C1AB5257800E280A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
